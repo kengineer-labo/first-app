@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">FirstApp</string>
+
+    <!--  商品一覧画面  -->
+    <string name="home_skin_care_title">スキンケア</string>
+    <string name="home_face_mask_title">フェイスマスク</string>
+
+
+    <!--  text size  -->
+    <string name="home_title">20sp</string>
+
 </resources>
